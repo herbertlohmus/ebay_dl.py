@@ -53,4 +53,7 @@ For the csv file of mirror:
 ``` 
 python3 ebay_dl.py mirror --csv 
 ```
+
+Here is the [link](https://github.com/mikeizbicki/cmc-csci040/blob/2021fall/hw_03/README.md) to the course project
+
 **Have fun playing around with this**
